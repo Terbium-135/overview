@@ -7,7 +7,7 @@ The files in the HTML/js folder are unmodified ones taken from
   - <a href="https://www.highcharts.com/">Highcharts</a>
   - <a href="https://github.com/Mottie/tablesorter">tablesorter</a>
 
-The report files themselves are only holding small amounts of imbedded javascript code to add some functionality.
+The report files themselves are only containing small amounts of embedded javascript code to add some functionality to few tables and to enable navigation.
 
 In case you are scared either
 
