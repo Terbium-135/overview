@@ -1,11 +1,21 @@
 ### Introduction
 
-You have to enable javascript to get the most out of these run reports. In case you are scared either
+You have to enable javascript to get the most out of these run reports.
 
-  - have a look at the html and javascript files on GitHub (click the blue 'View on Github' on top of the screen) and examine the files in the HTML folder and below  prior to enabling javascript and/or
+The files in the HTML/js folder are unmodified ones taken from
+  - <a href="https://jquery.com/">jQuery</a>
+  - <a href="https://www.highcharts.com/">Highcharts</a>
+  - <a href="https://github.com/Mottie/tablesorter">tablesorter</a>
+
+The report files themselves are only holding small amounts of imbedded javascript code to add some functionality.
+
+In case you are scared either
+
+  - have a look at the HTML and javascript files on GitHub (click the blue 'View on Github' on top of the screen) and examine the files in the HTML folder and below  prior to enabling javascript and/or
+
   - run a 'sandboxed' browser
 
-Loading the HTML files takes a few seconds, these are up to 3MB in size and the javascript formatting of the many tables is somehow time expensive.
+Loading the HTML files takes a few seconds (typically up to 15-20 seconds), these are up to 3MB in size and the javascript formatting of the many tables is somehow time expensive.
 
 Most of the table columns can be sorted by clicking on the header:
 
@@ -26,7 +36,7 @@ Most of the table columns can be sorted by clicking on the header:
   - P1
     - <a href="html/2016-04-16T153328 - Limbo P1 - Salek's Last LT.html">Limbo P1 run with lifethreader</a> (comparing threader damage to BG)
 
-    - PLACEHOLDER (quasiclass herald of storms in Limbo)
+    - PLACEHOLDER (herald of storms in Limbo)
 
   - P2
     - Don't have any logs to create reports from
