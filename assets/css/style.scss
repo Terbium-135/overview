@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+    width: 100%;
+}
+
+.inner {
+    position: relative;
+    max-width: 1024px;
+    padding: 20px 10px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 700px;
+	@media screen {
+		width: 150%;
+		max-width: 1000px;
+	}
+}
+
+h3 {
+    font-size: 24px;
+	border-bottom: 1px solid black;
+}

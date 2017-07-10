@@ -1,0 +1,70 @@
+### Introduction
+
+You have to enable javascript to get the most out of these run reports. In case you are scared either
+
+  - have a look at the html and javascript files on GitHub (click the blue 'View on Github' on top of the screen) and examine the files in the HTML folder and below  prior to enabling javascript and/or
+  - run a 'sandboxed' browser
+
+Loading the HTML files takes a few seconds, these are up to 3MB in size and the javascript formatting of the many tables is somehow time expensive.
+
+Most of the table columns can be sorted by clicking on the header:
+
+<img src="docs/images/Sorting columns.png" width="150%">
+
+
+<br>
+### Runs
+
+#### Hell
+
+  - Stygia
+    - <a href="html/2016-02-06T171051 - Stygia - Salek's Last Slinger.html">Level 80 Slinger</a> (damage and damage per hit of a level 80 slinger)
+
+#### Abyss
+
+#### Limbo
+  - P1
+    - <a href="html/2016-04-16T153328 - Limbo P1 - Salek's Last LT.html">Limbo P1 run with lifethreader</a> (comparing threader damage to BG)
+
+    - PLACEHOLDER (quasiclass herald of storms in Limbo)
+
+  - P2
+    - Don't have any logs to create reports from
+
+#### Elysium
+
+#### Aboleths
+
+#### Miscellaneous
+  - PLACEHOLDER (comparing damages: slinger to AA)
+
+
+<br>
+### Some screenshots
+**Run summary**
+* * *
+<img src="docs/images/Run summary.png" width="110%">
+
+**Damage OUT detailed**
+* * *
+<img src="docs/images/Damage OUT detailed.png" alt="">
+
+**Lifethreading**
+
+<img src="docs/images/Lifethreading.png" alt="">
+
+**Various tables**
+
+<img src="docs/images/Various tables.png" alt="">
+
+**Save checks**
+
+<img src="docs/images/Save checks.png" alt="">
+
+**Damage over time**
+
+<img src="docs/images/DamageOverTime.png" alt="">
+
+**Character statistics (header)**
+
+<img src="docs/images/Character statistics.png" alt="">
