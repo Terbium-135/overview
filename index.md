@@ -36,7 +36,7 @@ Most of the table columns can be sorted by clicking on the header:
   - P1
     - <a href="html/2016-04-16T153328 - Limbo P1 - Salek's Last LT.html">Limbo P1 run with lifethreader</a> (comparing threader damage to BG)
 
-    - PLACEHOLDER (herald of storms in Limbo)
+    - <a href="html/2017-07-11T110752 - Limbo P1 - Salek's Last Herald.html">Limbo P1 run with herald</a> (herald of storms in Limbo)
 
   - P2
     - Don't have any logs to create reports from
