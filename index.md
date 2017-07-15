@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ### Introduction
 
 You have to enable javascript to get the most out of these run reports.
@@ -25,21 +26,21 @@ Most of the table columns can be sorted by clicking on the header:
 <br>
 ### Runs
 
-#### Hell
-
-  - Stygia
-    - <a href="html/2016-02-06T171051 - Stygia - Salek's Last Slinger.html">Level 80 Slinger</a> (damage and damage per hit of a level 80 slinger)
-
-#### Abyss
-
 #### Limbo
   - P1
     - <a href="html/2016-04-16T153328 - Limbo P1 - Salek's Last LT.html">Limbo P1 run with lifethreader</a> (comparing threader damage to BG)
 
-    - <a href="html/2017-07-11T110752 - Limbo P1 - Salek's Last Herald.html">Limbo P1 run with herald</a> (herald of storms in Limbo)
+    - <a href="html/2017-07-11T110752 - Limbo P1 - Salek's Last Herald.html">Limbo P1 run with herald</a> (herald of storms in Limbo - very first Limbo run ever, 2 days after Limbo came in)
 
   - P2
     - Don't have any logs to create reports from
+
+#### Abyss
+
+#### Hell
+
+  - Stygia
+    - <a href="html/2016-02-06T171051 - Stygia - Salek's Last Slinger.html">Level 80 Slinger</a> (damage and damage per hit of a level 80 slinger)
 
 #### Elysium
 
