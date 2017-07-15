@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 ### Introduction
 
 You have to enable javascript to get the most out of these run reports.
