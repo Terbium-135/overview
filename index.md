@@ -52,31 +52,39 @@ Most of the table columns can be sorted by clicking on the header:
 <br>
 ### Some screenshots
 <div class="indexTitelGradient">
-**Run summary**
+<h2 id="IndexByRace" class="indexTitle">Index by race</h2>
+<b>Run summary</b
 </div>
 * * *
 <img src="docs/images/Run summary.png" width="100%">
 
-**Damage OUT detailed**
+<div class="indexTitelGradient">
+<b>Damage OUT detailed</b>
+</div>
 * * *
 <img src="docs/images/Damage OUT detailed.png" alt="">
 
-**Lifethreading**
-
+<div class="indexTitelGradient">
+<b>Lifethreading</b>
+</div>
 <img src="docs/images/Lifethreading.png"  width="80%">
 
-**Various tables**
-
+<div class="indexTitelGradient">
+<b>Various tables</b>
+</div>
 <img src="docs/images/Various tables.png" alt="">
 
-**Save checks**
-
+<div class="indexTitelGradient">
+<b>Save checks</b>
+</div>
 <img src="docs/images/Save checks.png"  width="60%">
 
-**Damage over time**
-
+<div class="indexTitelGradient">
+<b>Damage over time</b>
+</div>
 <img src="docs/images/DamageOverTime.png" alt="">
 
-**Character statistics (header)**
-
+<div class="indexTitelGradient">
+<b>Character statistics (header)</b>
+</div>
 <img src="docs/images/Character statistics.png" alt="">
