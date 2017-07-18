@@ -53,7 +53,7 @@ Most of the table columns can be sorted by clicking on the header:
 ### Some screenshots
 **Run summary**
 * * *
-<img src="docs/images/Run summary.png" width="110%">
+<img src="docs/images/Run summary.png" width="100%">
 
 **Damage OUT detailed**
 * * *
@@ -61,7 +61,7 @@ Most of the table columns can be sorted by clicking on the header:
 
 **Lifethreading**
 
-<img src="docs/images/Lifethreading.png" alt="">
+<img src="docs/images/Lifethreading.png"  width="80%">
 
 **Various tables**
 
@@ -69,7 +69,7 @@ Most of the table columns can be sorted by clicking on the header:
 
 **Save checks**
 
-<img src="docs/images/Save checks.png" alt="">
+<img src="docs/images/Save checks.png"  width="60%">
 
 **Damage over time**
 
