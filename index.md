@@ -69,7 +69,7 @@ Most of the table columns can be sorted by clicking on the header:
 
 **Save checks**
 
-<img src="docs/images/Save checks.png"  width="400">
+<img src="docs/images/Save checks.png"  width="60%">
 
 **Damage over time**
 
