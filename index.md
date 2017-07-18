@@ -51,7 +51,9 @@ Most of the table columns can be sorted by clicking on the header:
 
 <br>
 ### Some screenshots
+<div class="indexTitelGradient">
 **Run summary**
+</div>
 * * *
 <img src="docs/images/Run summary.png" width="100%">
 
