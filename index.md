@@ -15,7 +15,7 @@ In case you are scared either
 
   - run a 'sandboxed' browser
 
-Loading the HTML files takes some time (typically up to 15-30 seconds, **please be patient**), the files are up to 3MB in size and rendering as well as the javascript formatting of the many tables is somehow time expensive.
+Loading the HTML files takes some time (typically up to 15-30 seconds, **please be patient**), the files are up to 3MB in size and rendering as well as the javascript formatting of the many tables are somehow time expensive.
 
 Most of the table columns can be sorted by clicking on the header:
 
