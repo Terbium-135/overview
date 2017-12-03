@@ -52,7 +52,7 @@ Most of the table columns can be sorted by clicking on the header:
 <br>
 ### Some screenshots
 <div class="indexTitelGradient">
-<h2 id="IndexByRace" class="indexTitle">Index by race</h2>
+<h2 id="IndexByRace" class="indexTitle">Index XXXXby race</h2>
 <b>Run summary</b>
 </div>
 * * *
