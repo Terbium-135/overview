@@ -66,7 +66,7 @@ Most of the table columns can be sorted by clicking on the header:
 <img src="docs/images/Damage OUT detailed.png" alt="">
 
 <div class="indexTitelGradient">
-<b>Lifethreading</b>
+### <b>Lifethreading</b>
 </div>
 <img src="docs/images/Lifethreading.png"  width="80%">
 
