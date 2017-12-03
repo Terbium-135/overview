@@ -52,21 +52,19 @@ Most of the table columns can be sorted by clicking on the header:
 <br>
 ### Some screenshots
 <div class="indexTitelGradient">
-<h2 id="IndexByRace" class="indexTitle">Index XXXXby race</h2>
 <b>Run summary</b>
 </div>
 * * *
 <img src="docs/images/Run summary.png" width="100%">
 
 <div class="indexTitelGradient">
-<h2 id="IndexByRace" class="indexTitle">Damage OUT detailed</h2>
 <b>Damage OUT detailed</b>
 </div>
 * * *
 <img src="docs/images/Damage OUT detailed.png" alt="">
 
 <div class="indexTitelGradient">
-### <b>Lifethreading</b>
+<b>Lifethreading</b>
 </div>
 <img src="docs/images/Lifethreading.png"  width="80%">
 
