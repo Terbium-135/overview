@@ -42,7 +42,7 @@ Most of the table columns can be sorted by clicking on the header:
     - <a href="html/2016-02-06T171051 - Stygia - Salek's Last Slinger.html">Level 80 Slinger</a> (damage and damage per hit of a level 80 slinger)
 
 #### Elysium
-    - <a href="html/2016-04-20T213611 - Elysium - Salek's Really Last Sorc.html">Level 72 Sorc</a> (Doing an Ely run on sorc with 2 threaders in party - 1 hour 16 minutes totaö run time)
+  - <a href="html/2016-04-20T213611 - Elysium - Salek's Really Last Sorc.html">Level 72 Sorc</a> (Doing an Ely run on sorc with 2 threaders in party - 1 hour 16 minutes total run time)
 #### Aboleths
 
 #### Miscellaneous
@@ -67,7 +67,7 @@ Most of the table columns can be sorted by clicking on the header:
 <b>Opponents by damage types</b>
 </div>
 * * *
-<img src="docs/Opponents by damage types.png" alt="">
+<img src="docs/images/Opponents by damage type.png" alt="">
 
 <div class="indexTitelGradient">
 <b>Lifethreading</b>
