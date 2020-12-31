@@ -2,7 +2,7 @@
 
 > This is more or less a '**Proof of Concept**'. Just to show what can be done using HGX besides of simply counting damage and kills.
 > 
-> Display:
+> The report displays:
 >
 > - support like PT2, rez, stone to flesh
 > - tanks are tanking the 'right' mobs
@@ -14,7 +14,7 @@
 > - seen AC and effective AB (min, max, median)
 > - a complete bestiary faced during a run
 > - very few graphics (just because I could)
-> much more (which I have forgotten for sure)
+> - much more (which I have forgotten for sure)
 
 ### Introduction
 
