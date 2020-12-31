@@ -1,11 +1,30 @@
+### Note
+
+> This is more or less a '**Proof of Concept**'. Just to show what can be done using HGX besides of simply counting damage and kills.
+> 
+> Display:
+>
+> - support like PT2, rez, stone to flesh
+> - tanks are tanking the 'right' mobs
+> - damage done versus certain mobs
+> - save and ability checks
+> - damage types taken by oppenents
+> - special information for threaders, shifters and many more
+> - melee special attacks
+> - seen AC and effective AB (min, max, median)
+> - a complete bestiary faced during a run
+> - very few graphics (just because I could)
+> much more (which I have forgotten for sure)
+
 ### Introduction
 
 You have to enable javascript to get the most out of these run reports.
 
 The files in the HTML/js folder are unmodified ones taken from
-  - <a href="https://jquery.com/">jQuery</a>
-  - <a href="https://www.highcharts.com/">Highcharts</a>
-  - <a href="https://github.com/Mottie/tablesorter">tablesorter</a>
+
+- <a href="https://jquery.com/">jQuery</a>
+- <a href="https://www.highcharts.com/">Highcharts</a>
+- <a href="https://github.com/Mottie/tablesorter">tablesorter</a>
 
 The report files themselves are only containing small amounts of embedded javascript code to add some functionality to few tables and to enable navigation.
 
@@ -42,7 +61,9 @@ Most of the table columns can be sorted by clicking on the header:
     - <a href="html/2016-02-06T171051 - Stygia - Salek's Last Slinger.html">Level 80 Slinger</a> (damage and damage per hit of a level 80 slinger)
 
 #### Elysium
-  - <a href="html/2016-04-20T213611 - Elysium - Salek's Really Last Sorc.html">Level 72 Sorc</a> (Doing an Ely run on sorc with 2 threaders in party - 1 hour 16 minutes total run time)
+
+- <a href="html/2016-04-20T213611 - Elysium - Salek's Really Last Sorc.html">Level 72 Sorc</a> (Doing an Ely run on sorc with 2 threaders in party - 1 hour 16 minutes total run time)
+
 #### Aboleths
 
 #### Miscellaneous
