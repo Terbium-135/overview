@@ -14,7 +14,7 @@
 > - seen AC and effective AB (min, max, median)
 > - a complete bestiary faced during a run
 > - very few graphics (just because I could)
-> - much more (which I have forgotten for sure)
+> - much more (which I have to mention forgotten for sure)
 
 ### Introduction
 
