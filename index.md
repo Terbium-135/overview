@@ -5,10 +5,10 @@
 > The report displays:
 >
 > - support like PT2, rez, stone to flesh
-> - tanks are tanking the 'right' mobs
+> - tanks are tanking the *'right'* mobs
 > - damage done versus certain mobs
 > - save and ability checks
-> - damage types taken by oppenents
+> - damage types taken by opponents
 > - special information for threaders, shifters and many more
 > - melee special attacks
 > - seen AC and effective AB (min, max, median)
