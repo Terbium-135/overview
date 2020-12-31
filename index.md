@@ -1,4 +1,4 @@
-### Note
+#### Note
 
 > This is more or less a '**Proof of Concept**'. Just to show what can be done using HGX besides of simply counting damage and kills.
 >
