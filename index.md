@@ -14,7 +14,7 @@
 > - seen AC and effective AB (min, max, median)
 > - a complete bestiary faced during a run
 > - very few graphics (just because I could)
-> - much more (which I have to mention forgotten for sure)
+> - much more (which I forgot to mention for sure)
 
 ### Introduction
 
@@ -39,7 +39,6 @@ Loading the HTML files takes some time (typically up to 15-30 seconds, **please 
 Most of the table columns can be sorted by clicking on the header:
 
 <img src="docs/images/Sorting columns.png" width="150%">
-
 
 <br>
 ### Runs
