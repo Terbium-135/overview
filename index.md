@@ -90,6 +90,12 @@ Most of the table columns can be sorted by clicking on the header:
 <img src="docs/images/Opponents by damage type.png" alt="">
 
 <div class="indexTitelGradient">
+<b>Counterspelling</b>
+</div>
+* * *
+<img src="docs/images/CounterSpelling.png" alt="">
+
+<div class="indexTitelGradient">
 <b>Lifethreading</b>
 </div>
 <img src="docs/images/Lifethreading.png"  width="80%">
